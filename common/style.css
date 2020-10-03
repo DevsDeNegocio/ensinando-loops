@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+main, section{
+    padding: 16px;
+    margin: 0;
+}
+article {
+    border: 1px solid rgba(0,0,0,0.2);
+    padding: 8px;
+    margin: 8px 0;
+    display: inline-block;
+    width: 380px;
+    max-width: 100%;
+}
+h2{
+    margin: 0;
+}
+label{
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+article.right b {
+    color: green;
+}
+article.wrong b {
+    color: red;
+}
