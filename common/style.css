@@ -1,12 +1,13 @@
 body{
     margin: 0;
+    font-size: 1.3em;
 }
 main, section{
     padding: 16px;
     margin: 0;
 }
 article {
-    border: 1px solid rgba(0,0,0,0.2);
+    border: 3px solid rgba(0,0,0,0.2);
     padding: 8px;
     margin: 8px 0;
     display: inline-block;
@@ -17,12 +18,17 @@ h2{
     margin: 0;
 }
 label{
-    margin-bottom: 8px;
+    margin-bottom: 16px;
     font-weight: bold;
+    display: block;
 }
-article.right b {
-    color: green;
+article .description{
+    margin-top: 16px;
 }
-article.wrong b {
-    color: red;
+article.right {
+    border-color: green;
+    background-color: rgba(0,255,0, 0.2);
+}
+article.wrong {
+    border-color: red;
 }
