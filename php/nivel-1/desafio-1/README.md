@@ -8,7 +8,7 @@ Neste arquivo você deve criar de forma automatizada usando **for** as seguintes
 - **$resposta3** um array de 8 a 17 ( *[8,9,10,11,12,13,14,15,16,17]* )
 - **$resposta4** um array de 50 a 41 ( *[50,49,48,47,46,45,44,43,42,41]* )
 - **$resposta5** um array de 0 a -50 ( *[0,-1,-2,-3,-4,-5...,-50]* )
-- **$resposta6** um array de 1 ao 50 com todos os números ímpares = 0 ( *[0,0,2,0,4,0,6,0,8,0,10,0,12,...50]* )
+- **$resposta6** um array de 1 ao 50 com todos os números ímpares = 0 ( *[0,2,0,4,0,6,0,8,0,10,0,12,...50]* )
 - **$resposta7** um array de 1 ao 49 mas com todos os multiplos de 5 = 0 ( *[1,2,3,4,0,6,7,8,9,0,11,12,13,14,0,16...49]* )
 - **$resposta8** um array de 1 ao 49 mas SEM os múltiplos de 5 ( *[1,2,3,4,6,7,8,9,11,12,13,14,16...49]* )
 
