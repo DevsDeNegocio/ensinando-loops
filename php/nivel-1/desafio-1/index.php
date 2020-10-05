@@ -69,7 +69,7 @@ function session($label, $name){
 <?=session('$resposta3 deve ser um array de 8 a 17', 'resposta3')?>
 <?=session('$resposta4 deve ser um array de 50 a 41', 'resposta4')?>
 <?=session('$resposta5 deve ser um array de 0 a -50', 'resposta5')?>
-<?=session('$resposta6 deve ser um array de 0 a 100 com os ímprares = 0', 'resposta6')?>
+<?=session('$resposta6 deve ser um array de 0 a 50 com os ímprares = 0', 'resposta6')?>
 <?=session('$resposta7 deve ser um array de 1 ao 49 mas com todos os multiplos de 5 = 0', 'resposta7')?>
 <?=session('$resposta8 deve ser um array de 1 ao 49 mas SEM os múltiplos de 5 ', 'resposta8')?>
 </body>
